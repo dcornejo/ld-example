@@ -1,8 +1,12 @@
 cmake_minimum_required(VERSION 3.28)
-project(mod_test C)
+project(liquid-example C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(mod_test
-        main.c)
-target_link_libraries(mod_test liquid)
+
+add_executable(liquid-example
+        main.c
+)
+target_link_libraries(liquid-example
+        liquid
+)
