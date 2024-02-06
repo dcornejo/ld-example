@@ -4,5 +4,5 @@ project(mod_test C)
 set(CMAKE_C_STANDARD 17)
 
 add_executable(mod_test
-        modem_example.c)
+        main.c)
 target_link_libraries(mod_test liquid)
