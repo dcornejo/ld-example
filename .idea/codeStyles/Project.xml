@@ -97,5 +97,9 @@
       <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/SPACE_BEFORE_TYPE_PARAMETER_CONSTRAINT_COLON/@EntryValue" value="false" type="bool" />
       <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/SPACE_AFTER_TYPE_PARAMETER_CONSTRAINT_COLON/@EntryValue" value="false" type="bool" />
     </RiderCodeStyleSettings>
+    <codeStyleSettings language="ObjectiveC">
+      <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    </codeStyleSettings>
   </code_scheme>
 </component>
